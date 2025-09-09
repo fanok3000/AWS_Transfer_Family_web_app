@@ -1,0 +1,11 @@
+# Ignore all Markdown files
+*.md
+!README.md
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+*.log
+*.tmp
